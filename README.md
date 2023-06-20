@@ -28,6 +28,7 @@ Welcome to the Movie App! This application allows you to explore and discover in
 - Axios: HTTP client for making API requests.
 - CSS: Styling the user interface.
 - Firebase:For managing the backend
+- Context: State management to see if users are logged in or not
 
 ## API
 
