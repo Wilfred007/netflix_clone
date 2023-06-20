@@ -1,7 +1,3 @@
-# Movie App
-
-![Movie App Logo](/path/to/logo.png)
-
 Welcome to the Movie App! This application allows you to explore and discover information about movies, search for your favorite films, and stay up-to-date with the latest releases. Whether you're a casual moviegoer or a passionate cinephile, this app is designed to enhance your movie-watching experience.
 
 ## Features
